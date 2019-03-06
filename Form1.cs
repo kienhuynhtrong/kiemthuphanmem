@@ -19,7 +19,7 @@ namespace kiemthu
         {
             double a = double.Parse(txtA.Text);
             double b = double.Parse(txtB.Text);
-            double c = a + b;
+            double c = a - b;
         }
     }
 }
