@@ -16,6 +16,7 @@ namespace kiemthu
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //Comment's;
         }
     }
 }
