@@ -1,0 +1,10 @@
+E:\Visual\Bank\Crosscutting\bin\Debug\Bank.Crosscutting.dll
+E:\Visual\Bank\Crosscutting\bin\Debug\Bank.Crosscutting.pdb
+E:\Visual\Bank\Crosscutting\obj\Debug\Crosscutting.csproj.CoreCompileInputs.cache
+E:\Visual\Bank\Crosscutting\obj\Debug\Bank.Crosscutting.dll
+E:\Visual\Bank\Crosscutting\obj\Debug\Bank.Crosscutting.pdb
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\Crosscutting\bin\Debug\Bank.Crosscutting.dll
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\Crosscutting\bin\Debug\Bank.Crosscutting.pdb
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\Crosscutting\obj\Debug\Crosscutting.csprojResolveAssemblyReference.cache
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\Crosscutting\obj\Debug\Bank.Crosscutting.dll
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\Crosscutting\obj\Debug\Bank.Crosscutting.pdb

@@ -1,0 +1,16 @@
+E:\Visual\Bank\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\Visual\Bank\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Visual\Bank\DataAccess\bin\Debug\Bank.DataAccess.dll
+E:\Visual\Bank\DataAccess\bin\Debug\Bank.DataAccess.pdb
+E:\Visual\Bank\DataAccess\bin\Debug\Bank.Crosscutting.dll
+E:\Visual\Bank\DataAccess\bin\Debug\Bank.Crosscutting.pdb
+E:\Visual\Bank\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Visual\Bank\DataAccess\obj\Debug\Bank.DataAccess.dll
+E:\Visual\Bank\DataAccess\obj\Debug\Bank.DataAccess.pdb
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\bin\Debug\Bank.DataAccess.dll
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\bin\Debug\Bank.DataAccess.pdb
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\bin\Debug\Bank.Crosscutting.dll
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\bin\Debug\Bank.Crosscutting.pdb
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\obj\Debug\Bank.DataAccess.dll
+C:\Users\kienh\Downloads\Compressed\Bank_Ver2\Bank\DataAccess\obj\Debug\Bank.DataAccess.pdb
